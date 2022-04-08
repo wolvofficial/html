@@ -5,12 +5,16 @@
 
     <meta charset="UTF-8">
     
-    <!-- This is the snippet below the title 300 characters -->
-    
+    <!-- This is the snippet below the title. Max 160 characters -->
     <meta name="description" content="text">
+    
+    <!-- Author -->
+    <meta name="author" content="Carl Wolfgang Schultz">    
+    
+    <!-- Robot Tags -->
     <meta name="robots" content="index, follow">
     
-    <!-- What the site is about -->
+    <!-- What the site is about. These Keywords are not as important. -->
     <meta name="keywords" content="HTML, Affiliate Marketing, CSS, Blogging, Technology, Saas, Self Employment, Task        Management, Career, Finances, App Development, Email marketing, College, Education, Website Reviews">
     
     <!-- OG Tags -->
@@ -145,9 +149,12 @@ There are many other providers out there for you to try. I have had luck with a 
 <h4>Best Recommendations</h4>
 
 <ul>    
-<li>SeedFi</li>    
-<li>Venmo Credit Card</li>    
-<li>UpStart</li>
+<li><a href="" target="_blank">!</a></li></br>
+<p></p>
+<li><a href="" target="_blank">!</a></li></br>
+<p></p>
+<li><a href="" target="_blank">!</a></li></br>
+<p></p>
 </ul>
 
 <h2 id="Best Affiliate Sources">Best Affiliate Sources</h2>
