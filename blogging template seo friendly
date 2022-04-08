@@ -4,20 +4,31 @@
 <head>
 
     <meta charset="UTF-8">
+    
+    <!-- This is the snippet below the title 300 characters -->
+    
     <meta name="description" content="text">
     <meta name="robots" content="index, follow">
     
     <!-- What the site is about -->
     <meta name="keywords" content="HTML, Affiliate Marketing, CSS, Blogging, Technology, Saas, Self Employment, Task        Management, Career, Finances, App Development, Email marketing, College, Education, ">
     
+    <!-- OG Tags -->
+        <meta property="og:title" content="title name" />
+        <meta property="og:url" content="url" />
+        <meta property="og:description" content="Learn about." />
+        <meta property="og:type" content="article" />
+        <meta property="og:image" content="url" />
+
+    
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-     <!-- What the site is about -->
+     <!-- Favicon goes here -->
      
     <link rel="icon" type="image/x-icon" href="https://external-content.duckduckgo.com/iu/?                                 u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyDlUudB8bO1TPLjgV40ocWCppPs9lS29fLNg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1">
 
-
+    <!-- Canonical -->
     <link href="https://wolvofficialmusic.com" rel="canonical" />
     
     <title>WolvOfficial Music</title>
@@ -31,11 +42,20 @@ WolvOfficial Music is a blogging website. I write informational articles about S
 </p>
 </details>
 
+<q>Find your passion in life and go all out!</q> 
+- Carl Wolfgang Schultz</b>
+
 <body>
 
 <h1>Why cant I receive email verification via welendus.com?</h1>
 
-<p><img alt="" class="size_orig justify_inline border_" src="https://cdn.pixabay.com/photo/2021/04/09/09/39/money-6163908_960_720.png" />Why cant I receive email verification via welendus.com?</p>
+<!-- Main Image Goes Here -->
+
+<p>
+    <img alt="" class="size_orig justify_inline border_" src="https://cdn.pixabay.com/photo/2021/04/09/09/39/money- 6163908_960_720.png" />Why cant I receive email verification via welendus.com?
+</p>
+
+<!-- Table of Contents goes here -->
 
 <div id="toc_container">
 
@@ -51,12 +71,11 @@ WolvOfficial Music is a blogging website. I write informational articles about S
 
 </div>
 
+    <!-- You main H1 heading goes here -->
+    
 <h1>Why cant I receive email verification via welendus.com?</h1>
 
 <p>
-
-<q>Find your passion in life and go all out!</q> 
-- Carl Wolfgang Schultz</b>
 
 </p>
 
@@ -140,6 +159,16 @@ There are many other providers out there for you to try. I have had luck with a 
 <li><a href="https://rebrand.ly/bandzoogle-pricing-ccfe13" target="_blank">BANDZOOGLE PRICING!</a></li>
 </ul>
 
+<h3>People I Follow</h3>
+
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
 <address>
 Written by Carl Wolfgang Schultz<p>Carl Schultz is a full-time affiliate marketer and blogger. Before starting his website, Carl worked as a warehouse manager and IT Professional. He is best known for his music videos and hit song Seven Whole Days.
 
@@ -156,7 +185,9 @@ Written by Carl Wolfgang Schultz<p>Carl Schultz is a full-time affiliate markete
 
 </u>
 
-Here is an inspirational quote that I pulled from PoetryFoundations Website:</p>
+
+
+<h3>Here is an inspirational quote that I pulled from PoetryFoundations Website:</h3>
 
 <blockquote cite="https://www.poetryfoundation.org/poems/44272/the-road-not-taken"><p><b>
 
